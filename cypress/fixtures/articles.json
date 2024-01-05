@@ -1,0 +1,39 @@
+{
+  "articles": [
+    {
+      "slug": "Title 1-123456",
+      "title": "Title 1",
+      "description": "This is the description",
+      "body": "This is the body",
+      "tagList": [],
+      "createdAt": "2024-01-04T00:52:58.601Z",
+      "updatedAt": "2024-01-04T00:52:58.601Z",
+      "favorited": false,
+      "favoritesCount": 1,
+      "author": {
+        "username": "FannyNilsson",
+        "bio": null,
+        "image": null,
+        "following": false
+      }
+    },
+    {
+      "slug": "Title 2-789456",
+      "title": "Title 2",
+      "description": "This is the description",
+      "body": "This is the body of article 2",
+      "tagList": [],
+      "createdAt": "2024-01-04T00:52:58.600Z",
+      "updatedAt": "2024-01-04T00:52:58.600Z",
+      "favorited": false,
+      "favoritesCount": 5,
+      "author": {
+        "username": "FannyNilsson",
+        "bio": null,
+        "image": null,
+        "following": false
+      }
+    }
+  ],
+  "articlesCount": 2
+}
