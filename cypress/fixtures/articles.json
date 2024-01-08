@@ -1,7 +1,7 @@
 {
   "articles": [
     {
-      "slug": "Title 1-123456",
+      "slug": "Title1-123456",
       "title": "Title 1",
       "description": "This is the description",
       "body": "This is the body",
@@ -18,7 +18,7 @@
       }
     },
     {
-      "slug": "Title 2-789456",
+      "slug": "Title2-789456",
       "title": "Title 2",
       "description": "This is the description",
       "body": "This is the body of article 2",
